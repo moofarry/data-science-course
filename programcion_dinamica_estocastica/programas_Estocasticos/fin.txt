@@ -1,0 +1,6 @@
+    sigma = desviacionEstandar(X)
+
+    print(f'Arreglo X: {X}')
+    print(f'Media = {mu}')
+    print(f'Varianza = {Var}')
+    print(f'Desviacion Estandar = {sigma}')
